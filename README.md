@@ -1,1 +1,1 @@
-# Heelo Naive Bayes
+# Hello Naive Bayes
